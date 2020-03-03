@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "thumb": "acme.jpg",
+            "payload": {
+                "company": "Acme",
+                "techs": "ruby, python",
+                "price": "10"
+            }
+        },
+        {
+            "thumb": "yahoo.jpg",
+            "payload": {
+                "company": "Yahoo",
+                "techs": "java",
+                "price": "20"
+            }
+        },
+        {
+            "thumb": "google.jpg",
+            "payload": {
+                "company": "Google",
+                "techs": "java",
+                "price": "30"
+            }
+        },
+        {
+            "thumb": "qaninja.jpg",
+            "payload": {
+                "company": "QA Ninja",
+                "techs": "ruby, node",
+                "price": "40"
+            }
+        }
+    ]
+}

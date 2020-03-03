@@ -1,0 +1,6 @@
+requests
+pymongo
+robotframework
+robotframework-jsonlibrary
+robotframework-requests
+robotframework-seleniumlibrary
