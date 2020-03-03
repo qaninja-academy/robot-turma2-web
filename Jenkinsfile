@@ -1,6 +1,6 @@
 pipeline {
     agent { 
-        docker { image "python" }
+        docker { image "qaninja/pywd" }
     }
     stages {
         stage("Build") {

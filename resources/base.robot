@@ -7,7 +7,7 @@ Resource    pages/elements.robot
 *** Keywords ***
 ### Hooks
 Abrir navegador
-    Open Browser                about:blank      chrome
+    Open Browser                about:blank      headlesschrome
     Set Selenium Implicit Wait  10
     Set Window Size             1440  900
     Go To                       https://spotlab.herokuapp.com/
